@@ -1,0 +1,36 @@
+#menu {
+    width:1350px;
+    height: 50px;
+    font-size: 25px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    text-shadow: 1.5px 1.5px 1.5px #333333;
+    background-color:#2A88AD;
+        border-radius: 8px;
+}
+ #menu ul {
+    height: 0px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 5px;
+
+    margin: 0px;
+}
+#menu li { 
+display: inline; 
+padding-top:  5px;
+text-align: left;
+}
+
+/*#menu a {
+    text-decoration: overline;
+    color: #00F;
+    padding: 8px 8px 8px 8px;
+}*/
+#menu li:hover {
+    color: silver;
+    background-color:;
+    cursor:pointer;
+    
+    padding: 5px 5px 5px 5px;
