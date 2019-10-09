@@ -251,7 +251,7 @@ session_start();
 
 
 
-<img height="380px" width="100%" src="images/background.jpg">
+<img height="382px" width="100%" src="images/background.jpg">
 <br><br>
 
 <div style="background-color:white;height: 250px;width:100%;font-family:Harlow Solid Italic; font-size:40px;border-radius:10px;">
@@ -269,7 +269,7 @@ session_start();
 <br>
 
 
-<div style="background-color:silver;height: 270px;width:100%;border-radius:10px;">
+<div style="background-color:silver;height: 272px;width:100%;border-radius:10px;">
 <h1 style=";margin-top: 0px;margin-left:560px;margin-top:10px;font-weight: bold;font-size: 40px;font-family: verdana">JOIN US</h1>
 <br>
 <div style="margin-left:10px;margin-right:10px">
