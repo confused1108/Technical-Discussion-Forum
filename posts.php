@@ -92,15 +92,16 @@ include 'footer.php';
     <div class="row">
 
         <div class="col-md-6" >
-            <p style="margin-left: 37px;margin-top:-20px;font-size: 20px">See other Workplaces</p>
+            <p style="margin-left: 37px;margin-top:-20px;font-size: 20px"><b>See other Workplaces</b></p>
             <form method="post" action="seework.php">
                 <div class="form-group" style="padding-left:10px;padding-right:10px;" >
 
                     <select name="work">
-                        <option value="org_load">Workload</Option>
-                        <option value="org_env">Working environment</Option>
-                        <option value="org_stf">Satisfaction</Option>
-                        <option value="org_rcmd">Recommendation</Option>
+                        <option value="org_load">Workload</option>
+                        <option value="org_env">Working environment</option>
+                        <option value="org_stf">Satisfaction</option>
+                        <option value="org_rcmd">Recommendation</option>
+                        <option value="org_cmp">Compensation</option>
                     </select>
 
                 </div>
